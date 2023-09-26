@@ -1,7 +1,7 @@
 module.exports  = {
-    HOST : "localhost",
-    USERNAME: "root",
-    PASSWORD: "Samirifi2002",
-    DATABASE : "wineschema"
+    HOST : "172.32.21.1",
+    USERNAME: "samer",
+    PASSWORD: "S@m3r#2023",
+    DATABASE : "Winery"
 }
 
